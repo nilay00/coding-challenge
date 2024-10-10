@@ -1,0 +1,32 @@
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border: none;
+}
+.data-table > thead > tr > th {
+  background: #374153;
+  color: #fff;
+}
+.search {
+  border-radius: 40px !important;
+  background: #374153 !important;
+  box-shadow: 5px 5px 10px #2f3747, -5px -5px 10px #3f4b5f !important;
+  border: none !important;
+}
+.search::placeholder {
+  color: #fff !important;
+  opacity: 1;
+}
+.form-control:focus {
+  color: #fff !important;
+}
+.form-select {
+  border-radius: 40px !important;
+  background: #374153 !important;
+  color: #fff !important;
+  box-shadow: 5px 5px 10px #2f3747, -5px -5px 10px #3f4b5f !important;
+  border: none !important;
+}

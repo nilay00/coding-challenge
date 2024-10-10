@@ -1,0 +1,27 @@
+.stats-card {
+  border: none !important;
+  background: #f0fff7;
+}
+.piechart-card {
+  border: none !important;
+}
+.stats-card-body {
+  min-height: 360px;
+  border-radius: 22px;
+  background: linear-gradient(145deg, #d8e6de, #ffffff);
+  box-shadow: 5px 5px 10px #adb8b2, -5px -5px 10px #ffffff;
+}
+
+.barchart {
+  border-radius: 22px;
+  padding: 30px;
+  background: linear-gradient(145deg, #d8e6de, #ffffff);
+  box-shadow: 5px 5px 10px #adb8b2, -5px -5px 10px #ffffff;
+}
+.piechart {
+  min-height: 360px;
+  border-radius: 22px;
+  padding: 30px;
+  background: linear-gradient(145deg, #d8e6de, #ffffff);
+  box-shadow: 5px 5px 10px #adb8b2, -5px -5px 10px #ffffff;
+}

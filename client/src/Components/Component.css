@@ -12,6 +12,7 @@
 }
 .search {
   border-radius: 40px !important;
+  color: #fff !important;
   background: #374153 !important;
   box-shadow: 5px 5px 10px #2f3747, -5px -5px 10px #3f4b5f !important;
   border: none !important;
